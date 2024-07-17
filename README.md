@@ -30,6 +30,5 @@ pip install pyperclip
 > - xclip
 > - gtk
 > - PyQt4
-> For more information, see: [Pyperclip's Documentation](https://pyperclip.readthedocs.io/en/latest/)
-
+> For more information, see: [Pyperclip's Documentation](https://pyperclip.readthedocs.io/en/latest/). You can install them from your distribution's repository.
 
