@@ -24,12 +24,13 @@ Ensure you have Python 3 installed on your machine. Additionally, the script use
 pip install pyperclip
 ```
 
-> [!Alert]
-> **Linux Users:** you must have some module that gives access to the clipboard. Here are some options:
-> - xsel
-> - xclip
-> - gtk
-> - PyQt4
-> For more information, see: [Pyperclip's Documentation](https://pyperclip.readthedocs.io/en/latest/)
+<p class="callout info">
+**Linux Users:** you must have some module that gives access to the clipboard. Here are some options:<br>
+- xsel<br>
+- xclip<br>
+- gtk<br>
+- PyQt4<br>
+For more information, see: [Pyperclip's Documentation](https://pyperclip.readthedocs.io/en/latest/)
+</p>
 
 
