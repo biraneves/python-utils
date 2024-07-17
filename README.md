@@ -26,9 +26,11 @@ pip install pyperclip
 
 > [!IMPORTANT]
 > **Linux Users:** you must have some module that gives access to the clipboard. Here are some options:
+>
 > - xsel
 > - xclip
 > - gtk
 > - PyQt4
+>
 > For more information, see: [Pyperclip's Documentation](https://pyperclip.readthedocs.io/en/latest/). You can install them from your distribution's repository.
 
